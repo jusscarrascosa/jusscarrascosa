@@ -1,4 +1,8 @@
-<h1 align="center">👋 Hi there, I'm Justina Carrascosa</h1>
+<h1 align="center">
+  Hi there, Im Justina Carrascosa&nbsp;
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="👋" width="32" height="32" loading="lazy">
+</h1>
+
 
 
 🎓 **Biomedical Engineer** | 💻 **Data & Image Enthusiast** | 🌍 **Exploring the intersection of health, AI and design**
