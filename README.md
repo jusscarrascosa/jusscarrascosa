@@ -22,4 +22,3 @@ I enjoy projects that combine **data analysis, computer vision, and UX thinking*
 ![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-ML-red?logo=tensorflow)
-![OpenCV](https://img.shields.io/b)
