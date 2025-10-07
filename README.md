@@ -1,4 +1,5 @@
-##👋 Hi there, I'm Justina Carrascosa  
+<h1 align="center">👋 Hi there, I'm Justina Carrascosa</h1>
+
 
 🎓 **Biomedical Engineer** | 💻 **Data & Image Enthusiast** | 🌍 **Exploring the intersection of health, AI and design**
 
